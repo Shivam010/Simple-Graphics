@@ -2,7 +2,8 @@
 This are two simple graphics experiments created in 2nd semester of my college life...
 It has two programs in it:
   1. Walking Bot
-  2. Bouncing ball<br>
+  2. Bouncing ball
+
 Check it out...
 
 # How to Run locally
